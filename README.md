@@ -1,3 +1,5 @@
 # Recommender System
 
-Content-based filtering makes recommendations by using keywords and attributes assigned to objects in a database (e.g., items in an online marketplace) and matching them to a user profile
+A web app that recommends animes based on similar ones based on keywords, and tags.
+
+https://ars-webapp.herokuapp.com/
